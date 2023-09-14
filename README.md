@@ -3,7 +3,7 @@ Model developed for predicting house prices in Goiânia.
 
 ## Metric Used
 
-$$ \sqrt{\frac{1}{n} \sum_{i=1}^{n}(y_i - \hat{y}_i)^2} $$
+$$ RMSE = \sqrt{\frac{1}{n} \sum_{i=1}^{n}(y_i - \hat{y}_i)^2} $$
 
 ## Notes
 
