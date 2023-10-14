@@ -14,4 +14,4 @@ It was not considered the ADDRESS column because it would require a lot of work 
 | Model                   	| RMSE   	|
 |-------------------------	|--------	|
 | Random Forest Regressor 	| 125143 	|
-| Linear Regressions      	| 171934 	|
+| Linear Regression       	| 171934 	|
